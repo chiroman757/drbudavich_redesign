@@ -63,7 +63,7 @@ const benefits = [
     detail: "In acupuncture, nutrition, rehabilitation, and applied kinesiology",
   },
   {
-    stat: "1000s",
+    stat: "1000+",
     label: "Patients Helped",
     detail: "Years of experience in pain management and holistic care",
   },
@@ -256,7 +256,7 @@ export default function Home() {
             >
               <div className="relative rounded-3xl overflow-hidden shadow-2xl">
                 <img
-                  src="https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?w=600&h=700&fit=crop"
+                  src="https://d2xsxph8kpxj0f.cloudfront.net/310519663443315081/oLxYoAknacFRRAG6UfnzBo/dr-budavich-portrait_ce6d25b9.webp"
                   alt="Dr. Matthew Budavich"
                   className="w-full h-auto object-cover"
                 />
