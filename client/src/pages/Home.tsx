@@ -82,7 +82,7 @@ export default function Home() {
         {/* Background Image */}
         <div className="absolute inset-0">
           <img
-            src="https://d2xsxph8kpxj0f.cloudfront.net/310519663443315081/oLxYoAknacFRRAG6UfnzBo/hero-new-dxi2PXAiZx8cj63w8LWxBH.webp"
+            src="https://d2xsxph8kpxj0f.cloudfront.net/310519663443315081/oLxYoAknacFRRAG6UfnzBo/hero-wellness-abstract-i2vzx4VEYjejJo7pXiCx6T.webp"
             alt="Holistic healing touch"
             className="w-full h-full object-cover"
           />

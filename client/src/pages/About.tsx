@@ -75,7 +75,7 @@ export default function About() {
             >
               <div className="rounded-3xl overflow-hidden shadow-2xl sticky top-32">
                 <img
-                  src="https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?w=500&h=650&fit=crop"
+                  src="https://d2xsxph8kpxj0f.cloudfront.net/310519663443315081/oLxYoAknacFRRAG6UfnzBo/dr-budavich-portrait_ce6d25b9.webp"
                   alt="Dr. Matthew Budavich"
                   className="w-full h-auto object-cover"
                 />
