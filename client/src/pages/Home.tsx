@@ -86,7 +86,7 @@ export default function Home() {
             alt="Holistic healing touch"
             className="w-full h-full object-cover"
           />
-          <img src="https://d2xsxph8kpxj0f.cloudfront.net/310519663443315081/oLxYoAknacFRRAG6UfnzBo/hero-overlay-feather-G54EFsfXnuaQFZTapY94YD.webp" alt="Holistic wellness overlay" className="absolute inset-0 w-full h-full object-cover opacity-80" />
+          <img src="https://d2xsxph8kpxj0f.cloudfront.net/310519663443315081/oLxYoAknacFRRAG6UfnzBo/hero-overlay-clean-g2ubbhpxM9GxVXy9Spq3cX.webp" alt="Holistic wellness overlay" className="absolute inset-0 w-full h-full object-cover opacity-75" />
         </div>
 
         {/* Organic blob decoration */}
