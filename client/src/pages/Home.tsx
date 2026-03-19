@@ -86,7 +86,7 @@ export default function Home() {
             alt="Holistic healing touch"
             className="w-full h-full object-cover"
           />
-          <div className="absolute inset-0 bg-gradient-to-r from-charcoal/80 via-charcoal/50 to-transparent" />
+          <img src="https://d2xsxph8kpxj0f.cloudfront.net/310519663443315081/oLxYoAknacFRRAG6UfnzBo/hero-overlay-abstract-GwHpT9X8cHJiE5TDTub5oJ.webp" alt="Wellness overlay" className="absolute inset-0 w-full h-full object-cover opacity-70" />
         </div>
 
         {/* Organic blob decoration */}

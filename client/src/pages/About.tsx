@@ -126,7 +126,7 @@ export default function About() {
                 </p>
                 <p>
                   When Dr. Budavich is not in the office, he enjoys spending time
-                  with his wife, Brieanna, and their two children. He enjoys
+                  with his wife, Brieanna, and their three children. He enjoys
                   running, reading books, and learning how to become a better
                   leader in the Charlotte community.
                 </p>
