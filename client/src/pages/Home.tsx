@@ -98,7 +98,7 @@ export default function Home() {
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.5 }}
-              className="text-clay font-medium tracking-widest uppercase text-sm mb-4"
+              className="text-white font-medium tracking-widest uppercase text-sm mb-4 drop-shadow-lg"
             >
               Holistic Health &middot; Charlotte, NC
             </motion.p>
@@ -106,17 +106,17 @@ export default function Home() {
               initial={{ opacity: 0, y: 30 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.7, delay: 0.1 }}
-              className="font-serif text-5xl md:text-6xl lg:text-7xl text-cream leading-tight mb-6"
+              className="font-serif text-5xl md:text-6xl lg:text-7xl text-white leading-tight mb-6 drop-shadow-lg"
             >
               Unlock Your
               <br />
-              <span className="italic text-clay">Full Potential</span>
+              <span className="italic text-white">Full Potential</span>
             </motion.h1>
             <motion.p
               initial={{ opacity: 0, y: 30 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.7, delay: 0.2 }}
-              className="text-cream/80 text-lg md:text-xl leading-relaxed mb-8 max-w-lg"
+              className="text-white/90 text-lg md:text-xl leading-relaxed mb-8 max-w-lg drop-shadow-md"
             >
               Dr. Matthew Budavich specializes in facing your health challenges
               head-on with personalized chiropractic, acupuncture, and nutrition
@@ -138,7 +138,7 @@ export default function Home() {
                 <ArrowRight size={20} />
               </a>
               <Link href="/services">
-                <span className="inline-flex items-center justify-center gap-2 border-2 border-cream/30 text-cream px-8 py-4 rounded-full font-semibold text-lg hover:bg-cream/10 transition-all duration-300">
+                <span className="inline-flex items-center justify-center gap-2 border-2 border-white/50 text-white px-8 py-4 rounded-full font-semibold text-lg hover:bg-white/10 transition-all duration-300">
                   Our Services
                 </span>
               </Link>
