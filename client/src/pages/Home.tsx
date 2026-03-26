@@ -82,7 +82,7 @@ export default function Home() {
         {/* Right side - Background Image */}
         <div className="absolute top-0 right-0 bottom-0 w-full md:w-3/5">
           <img
-            src="https://d2xsxph8kpxj0f.cloudfront.net/310519663443315081/oLxYoAknacFRRAG6UfnzBo/hero-wellness-abstract-i2vzx4VEYjejJo7pXiCx6T.webp"
+            src="https://d2xsxph8kpxj0f.cloudfront.net/310519663443315081/oLxYoAknacFRRAG6UfnzBo/hero-healing-symbol-h4iyAbJJjjsyECAC2W8cXp.webp"
             alt="Holistic healing touch"
             className="w-full h-full object-cover"
           />
