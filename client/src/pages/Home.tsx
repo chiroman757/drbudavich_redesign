@@ -79,17 +79,17 @@ export default function Home() {
     <div>
       {/* Hero Section */}
       <section className="relative min-h-[85vh] flex items-center overflow-hidden bg-charcoal">
-        {/* Left side - Dark gradient for text */}
-        <div className="absolute inset-0 bg-gradient-to-r from-charcoal via-charcoal/70 to-transparent" />
-
         {/* Right side - Background Image */}
-        <div className="absolute inset-0 right-0 w-3/5">
+        <div className="absolute top-0 right-0 bottom-0 w-full md:w-3/5">
           <img
             src="https://d2xsxph8kpxj0f.cloudfront.net/310519663443315081/oLxYoAknacFRRAG6UfnzBo/hero-wellness-abstract-i2vzx4VEYjejJo7pXiCx6T.webp"
             alt="Holistic healing touch"
             className="w-full h-full object-cover"
           />
         </div>
+
+        {/* Left side - Dark gradient overlay for text readability */}
+        <div className="absolute inset-0 bg-gradient-to-r from-charcoal via-charcoal/95 via-40% to-charcoal/20" />
 
         {/* Organic blob decoration */}
         <div className="absolute -bottom-20 -right-20 w-96 h-96 bg-forest/10 rounded-full blur-3xl" />
