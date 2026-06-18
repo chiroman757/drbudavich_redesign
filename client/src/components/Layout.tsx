@@ -236,7 +236,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
                   </span>
                 </div>
                 <p className="mt-2">
-                  <span className="text-cream font-medium">Hours:</span> Saturday 7:00a - 3:00p
+                  <span className="text-cream font-medium">Hours:</span> Saturdays - By Appointment Only 7:00am-3:00pm
                 </p>
               </div>
             </div>
